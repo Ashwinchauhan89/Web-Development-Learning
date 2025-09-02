@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script type="module">
+        async function fetchData() {
+            return new Promise((resolve) => {
+                setTimeout(() => {
+                    resolve("Data fetched!");
+                }, 2000);
+            });
+        }
+
+        async function main() {
+            console.log("Fetching data...");
+            const data = await fetchData();
+            console.log(data);
+        }
+
+        main();
+    </script>
+    
+</body>
+</html>
