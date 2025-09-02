@@ -69,9 +69,3 @@ Welcome to **The Web Development Learning** repository! This project is a struct
 
 ---
 
-## 🏁 Getting Started
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/web-development-learning.git
-   cd web-development-learning
