@@ -9,8 +9,8 @@ console.log(arr); // Output: [10, 2, 3, 4,
 
 
 //propwrties and methods of array
-console.log(arr.length); // Output: 5 (length of the array)
-console.log(arr.push(6)); // Output: 6 (adds 6 to the end
+console.log(arr.length);    // Output: 5 (length of the array)
+console.log(arr.push(6));  // Output: 6 (adds 6 to the end
 console.log(arr.pop()); // Output: 6 (removes the last element)
 console.log(arr.shift()); // Output: 10 (removes the first element)
 console.log(arr.unshift(0)); // Output: 5 (adds 0 to the beginning)
