@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: black;
+    height: 600px;
+
+    animation-name: move;
+    animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box {
+    height: 60px;
+    width: 100px;
+    background-color: yellow;
+    animation: move 2s infinite cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+/*
+@keyframes move {
+    from {
+        transform: translateX(0);
+    }
+    to {
+        transform: translateX(500px);
+    }
+}
+
+
+*/
+@keyframes move {
+    from {
+        transform: translateY(0);
+    }
+    to {
+        transform: translateY(500px);
+    }
+}
+
+
