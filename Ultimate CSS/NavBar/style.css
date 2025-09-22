@@ -36,13 +36,14 @@ nav ul li a {
   color: bisque;
   text-decoration: none;
   padding: 14px 20px;
-  color: yellow;
+
   
 
 
 }
 
 nav ul li a:hover {
-  background-color: #444;
-  transition: all 0.3s cubic-bezier(0.165, 0.84, 0.44, 1);
+  color: yellow;
+  cursor: pointer;
+  
 }
