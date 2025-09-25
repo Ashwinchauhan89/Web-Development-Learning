@@ -114,6 +114,174 @@ Sets the visual tone and branding for the site.
 
 
 
+7. InnerBanner
+
+An InnerBanner is a smaller banner section displayed on internal pages of a website (not the homepage). It usually includes the page title, a background image or color, and sometimes breadcrumbs or a short description.
+
+Example:
+
+On the “About Us” page, a banner at the top showing the title “About Us” with a subtle background image or solid color.
+
+ Use Cases:
+
+To provide context and visual continuity on inner pages.
+
+Helps users understand where they are within the site structure.
+
+Often used on pages like About, Services, Blog archives, Contact, etc.
+
+Enhances design consistency across the website.
+
+
+
+
+
+
+
+
+
+8. Header
+
+The Header is the top section of a website that typically appears on all pages. It often contains the website logo, main navigation menu, contact links, search bar, and sometimes social media icons or a call-to-action button.
+
+
+Example:
+
+At the top of a website:
+
+Left: Logo
+
+Center/Right: Menu items like Home, About, Services, Blog, Contact
+
+Top-right: A “Call Us” button or shopping cart icon (for eCommerce)
+
+
+Provides site-wide navigation so users can access any main page from anywhere on the site.
+
+Reinforces branding through consistent logo and style.
+
+Often includes quick access to important actions (e.g., contact, login, search).
+
+Critical for user experience and SEO structure (through semantic HTML <header> tags).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9. Footer
+
+The Footer is the bottom section of a website, typically found on every page. It contains helpful links, contact details, legal information, and sometimes a newsletter signup, social icons, or a mini navigation menu.
+
+Example:
+
+At the bottom of a webpage:
+
+Left: Company logo + brief description
+
+Center: Quick links (Home, About, Services, Blog)
+
+Right: Contact info, email signup, and social media icons
+
+Bottom: Copyright © 2025 + Privacy Policy
+
+
+Example:
+
+At the bottom of a webpage:
+
+Left: Company logo + brief description
+
+Center: Quick links (Home, About, Services, Blog)
+
+Right: Contact info, email signup, and social media icons
+
+Bottom: Copyright © 2025 + Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+10. Section
+
+A Section is a distinct, structured block of content within a webpage. Websites are often built using multiple sections stacked vertically, each serving a unique purpose—like a hero section, services section, testimonial section, or contact section.
+
+Example:
+
+On a homepage, you might see:
+
+Hero Section – Title, subtitle, and CTA
+
+Services Section – Icons with service descriptions
+
+Testimonials Section – Customer reviews
+
+Contact Section – Form and address
+
+
+
+Use Cases:
+
+Used to break content into manageable, readable parts.
+
+Helps designers and developers create modular layouts.
+
+Improves user experience by guiding visitors through content in a logical flow.
+
+Allows for easy content editing in page builders like Elementor, Gutenberg, Webflow, etc.
+
+
+
+
+
+
+
+
+
+
+
+
+11. Social Icons
+
+Social Icons are small, clickable icons that link to your social media profiles (e.g., Facebook, Instagram, LinkedIn, X/Twitter). They're typically represented by each platform’s recognizable logo.
+
+Example:
+
+A row of icons in the website’s header or footer:
+
+🟦 Facebook
+
+📸 Instagram
+
+🟦 LinkedIn
+
+🐦 X (Twitter)
+
+Clicking each icon takes the user to your business’s social media page.
+
+
+
+
+
+
+
+
 
 
 
