@@ -13,6 +13,13 @@ Use Case: Helps users and search engines navigate older or categorized content e
 
 
 
+
+
+
+
+
+
+
 2. Single
 
 Definition: A single page or single post template that shows one specific piece of content — for example, an individual blog post, product, or article.
@@ -39,6 +46,16 @@ Use Case: Displays in-depth content for one item (post, product, testimonial, et
 
 
 
+
+
+
+
+
+
+
+
+
+
 3. Blog
 
 Definition: A blog is a section of a website containing chronological posts (articles, news, opinions).
@@ -46,6 +63,15 @@ Definition: A blog is a section of a website containing chronological posts (art
 Example: example.com/blog/
 
 Use Case: Improves SEO, provides value to users, and establishes expertise
+
+
+
+
+
+
+
+
+
 
 
 
@@ -68,6 +94,15 @@ Use Case: Regular updates, insights, and SEO-friendly content.
 
 
 
+
+
+
+
+
+
+
+
+
 5. Taxonomy
 
 Definition: A system of classification used to organize content into groups (e.g., categories, tags).
@@ -79,6 +114,13 @@ Use Case: Enhances navigation and site structure.
 . A well-defined taxonomy structure with hierarchical and top-level categories organizes content into clearly defined areas, helping users navigate different categories effortlessly.
 
 Custom taxonomy for a real estate site might be “Property Type” (Apartment, House, Condo).
+
+
+
+
+
+
+
 
 
 
@@ -114,6 +156,10 @@ Sets the visual tone and branding for the site.
 
 
 
+
+
+
+
 7. InnerBanner
 
 An InnerBanner is a smaller banner section displayed on internal pages of a website (not the homepage). It usually includes the page title, a background image or color, and sometimes breadcrumbs or a short description.
@@ -131,6 +177,12 @@ Helps users understand where they are within the site structure.
 Often used on pages like About, Services, Blog archives, Contact, etc.
 
 Enhances design consistency across the website.
+
+
+
+
+
+
 
 
 
@@ -274,6 +326,81 @@ A row of icons in the website’s header or footer:
 🐦 X (Twitter)
 
 Clicking each icon takes the user to your business’s social media page.
+
+Use Cases:
+
+Encourages visitors to follow your brand on social platforms.
+
+Builds social proof and community engagement.
+
+Commonly placed in the header, footer, or contact section.
+
+Helps drive traffic to your social pages and boosts brand visibility.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12. Links
+
+Links (short for hyperlinks) are clickable elements—usually text or images—that direct users to another page, section, or external website when clicked. They are one of the core elements of website navigation.
+
+Example:
+
+Text link:
+“Learn more about our services” → takes the user to example.com/services/
+
+Button link:
+“Get a Quote” → leads to a contact form
+
+Image link:
+Clicking a product image redirects to the product detail page.
+
+
+Use Cases:
+
+Help users navigate between pages on your site (internal links).
+
+Direct users to external resources (external links).
+
+Improve SEO by establishing a content structure with internal linking.
+
+Enhance usability by providing clear paths to key content, actions, or resources.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
