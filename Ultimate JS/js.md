@@ -216,7 +216,15 @@ const birthYear = 2000;
 // birthYear = 2001; ❌ Error – can't reassign a const
 ```
 
+# 🔹 Rules for Naming Variables
 
+- Must start with a letter, $, or _ (not a number).
+
+- Can contain letters, numbers, _, or $.
+
+- Case-sensitive (Name and name are different).
+
+- Don't use JavaScript reserved words (like if, for, function, etc.).
 
 
 
