@@ -294,6 +294,15 @@ function greet() {
 
 # JavaScript is Dynamically Typed
 
+- This means the type of a variable is determined at runtime, and you can change the type by reassigning:
+
+```javascript
+let data = 42;        // Number
+data = "Hello";       // Now it's a string
+data = true;          // Now a boolean
+```
+
+
 
 
 
