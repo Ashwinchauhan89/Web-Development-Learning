@@ -241,4 +241,43 @@ let _count = 5;
 - JavaScript has two main categories of data types:
 
 
+## 1. Primitive Data Types (simple & immutable)
+
+```markdown
+| Type          | Example         | Description                          |
+| ------------- | --------------- | ------------------------------------ |
+| **String**    | `"Hello"`       | Text enclosed in quotes              |
+| **Number**    | `42`, `3.14`    | Any numeric value                    |
+| **Boolean**   | `true`, `false` | Logical value (yes/no)               |
+| **Null**      | `null`          | Intentional absence of any value     |
+| **Undefined** | `undefined`     | A variable declared but not assigned |
+| **Symbol**    | `Symbol("id")`  | Unique and immutable identifier      |
+| **BigInt**    | `123n`          | For very large integers              |
+```
+Example :
+
+
+```javascript
+let name = "Alice";         // String
+let age = 30;               // Number
+let isStudent = true;       // Boolean
+let car = null;             // Null
+let score;                  // Undefined
+let id = Symbol("id");      // Symbol
+let bigNumber = 1234567890123456789012345678901234567890n; // BigInt
+
+```
+
+## 2. Non-Primitive Data Types (objects & more complex)
+
+```markdown
+
+| Type         | Example                    | Description                   |
+| ------------ | -------------------------- | ----------------------------- |
+| **Object**   | `{name: "Alice", age: 25}` | Collection of key-value pairs |
+| **Array**    | `[1, 2, 3]`                | Ordered list of values        |
+| **Function** | `function() {}`            | Block of reusable code        |
+
+```
+
 

@@ -47,3 +47,4 @@ let o ={
 }
 console.log("The type of o is: " + typeof o);
 console.log("The value of o is: ", o);
+
