@@ -270,7 +270,7 @@ let bigNumber = 1234567890123456789012345678901234567890n; // BigInt
 
 ## 2. Non-Primitive Data Types (objects & more complex)
 
-```markdown
+
 
 | Type         | Example                    | Description                   |
 | ------------ | -------------------------- | ----------------------------- |
@@ -278,6 +278,17 @@ let bigNumber = 1234567890123456789012345678901234567890n; // BigInt
 | **Array**    | `[1, 2, 3]`                | Ordered list of values        |
 | **Function** | `function() {}`            | Block of reusable code        |
 
-```
+
+```javascript
+let person = { name: "John",
+                age: 28 };   // Object
+
+
+let colors = ["red", "green", "blue"];  // Array
+
+
+function greet() {
+  console.log("Hello!");
+} // Function
 
 
