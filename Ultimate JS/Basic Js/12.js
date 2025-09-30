@@ -1,5 +1,7 @@
 //properties of the string
 let a = "Ashwin";
+
+
 console.log(a.length); // Output: 6 (length of the string)
 console.log(a.toUpperCase()); // Output: ASHWIN (converts to uppercase)
 console.log(a.toLowerCase()); // Output: ashwin (converts to lowercase) 
