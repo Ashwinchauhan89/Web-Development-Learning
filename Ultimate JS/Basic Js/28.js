@@ -1,4 +1,5 @@
 //properties of the string
+
 let a = "Ashwin";
 
 
@@ -11,5 +12,7 @@ console.log(a.includes("win")); // Output: true (checks if 'win' is in the strin
 console.log(a.slice(3,4)); // Output: true (checks if the string starts with 'Ash')
 
 
-//string are immutable in JavaScript, meaning you cannot change a character in a string directly.
+//string are immutable in JavaScript, 
+// 
+//meaning you cannot change a character in a string directly.
 // For example, the following code will not work as expected:
