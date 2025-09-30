@@ -142,3 +142,46 @@ JavaScript is:
 ```javascript
 console.log("Hello from the V8 engine!");
 ```
+
+<hr>
+
+# node Download
+
+```javascript
+node -v  OR
+
+node --version
+```
+
+<hr>
+
+```markdown
+E:\OneDrive\Desktop\Web Development Learning\Ultimate JS\Basic Js>node --version
+
+
+v24.6.0
+
+
+```
+<hr>
+## Run Js File 
+
+### In cmd at particluar Location 
+
+```markdown
+E:\OneDrive\Desktop\Web Development Learning\Ultimate JS\Basic Js>node 01.js
+
+
+Hello World
+```
+
+<hr>
+
+## Check npm package
+
+```markdown
+E:\OneDrive\Desktop\Web Development Learning\Ultimate JS\Basic Js>npm --version
+
+11.5.1
+```
+
