@@ -1,7 +1,3 @@
-let a =10;
-
-a=20;
-
-console.log(a)
-
-
+for (let i=1; i<=100; i++) {
+    console.log(i);
+}
