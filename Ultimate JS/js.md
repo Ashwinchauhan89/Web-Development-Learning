@@ -39,17 +39,17 @@ It's one of the **core technologies** of web development, along with:
 
 <hr>
 
-+-------------+         HTTP Request         +---------------+
-|             |  ------------------------->  |               |
-|   Browser   |                              |     Server    |
-| (JavaScript)|                              | (Node.js, etc)|
-|             |  <-------------------------  |               |
-+-------------+         HTTP Response        +---------------+
-        |                                             
-        |                                      
-        |                                   
-        V                                     
-[HTML, CSS, JavaScript]                           
-  (UI & Logic)
++-------------+ HTTP Request +---------------+
+| | -------------------------> | |
+| Browser | | Server |
+| (JavaScript)| | (Node.js, etc)|
+| | <------------------------- | |
++-------------+ HTTP Response +---------------+
+|
+|
+|
+V
+[HTML, CSS, JavaScript]
+(UI & Logic)
 
 
