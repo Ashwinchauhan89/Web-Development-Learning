@@ -185,3 +185,8 @@ E:\OneDrive\Desktop\Web Development Learning\Ultimate JS\Basic Js>npm --version
 11.5.1
 ```
 
+<hr>
+
+# 🔹 What is a Variable in JavaScript?
+
+A variable is a container used to store data (like numbers, strings, or objects) that can be used and changed later in your program.
