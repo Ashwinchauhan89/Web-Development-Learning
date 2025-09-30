@@ -202,4 +202,14 @@ A variable is a container used to store data (like numbers, strings, or objects)
 var name = "Alice";
 ```
 
+#### 2. let (Preferred for variables that change)
+
+```javascript
+let age = 25;
+age = 26; // Can be updated
+```
+
+
+
+
 
