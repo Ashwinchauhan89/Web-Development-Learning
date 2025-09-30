@@ -209,6 +209,14 @@ let age = 25;
 age = 26; // Can be updated
 ```
 
+#### 3. const (Preferred for constants – can't be changed)
+
+```javascript
+const birthYear = 2000;
+// birthYear = 2001; ❌ Error – can't reassign a const
+```
+
+
 
 
 
