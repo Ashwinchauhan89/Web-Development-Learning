@@ -2,13 +2,16 @@
 console.log("This is a simple JavaScript file.");
 let arr= [1, 2, 3, 4, 5];
 console.log(arr); // Output: [1, 2, 3, 4, 5]
+
 //array are mutable
-arr[0] = 10; // Changing the first element
+
+arr[0] = 10;   // Changing the first element
 console.log(arr); // Output: [10, 2, 3, 4,
 
 
 
-//propwrties and methods of array
+//properties and methods of array
+
 console.log(arr.length);    // Output: 5 (length of the array)
 console.log(arr.push(6));  // Output: 6 (adds 6 to the end
 console.log(arr.pop()); // Output: 6 (removes the last element)
