@@ -243,7 +243,7 @@ let _count = 5;
 
 ## 1. Primitive Data Types (simple & immutable)
 
-```markdown
+
 | Type          | Example         | Description                          |
 | ------------- | --------------- | ------------------------------------ |
 | **String**    | `"Hello"`       | Text enclosed in quotes              |
@@ -253,7 +253,7 @@ let _count = 5;
 | **Undefined** | `undefined`     | A variable declared but not assigned |
 | **Symbol**    | `Symbol("id")`  | Unique and immutable identifier      |
 | **BigInt**    | `123n`          | For very large integers              |
-```
+
 Example :
 
 
