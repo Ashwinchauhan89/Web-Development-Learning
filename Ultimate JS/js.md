@@ -226,6 +226,19 @@ const birthYear = 2000;
 
 - Don't use JavaScript reserved words (like if, for, function, etc.).
 
+```javascript
+let userName = "John";
+const $price = 100;
+let _count = 5;
+```
+
+
+
+<hr>
+
+# JavaScript Data Types
+
+- JavaScript has two main categories of data types:
 
 
 
