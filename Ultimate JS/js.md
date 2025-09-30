@@ -190,3 +190,16 @@ E:\OneDrive\Desktop\Web Development Learning\Ultimate JS\Basic Js>npm --version
 # 🔹 What is a Variable in JavaScript?
 
 A variable is a container used to store data (like numbers, strings, or objects) that can be used and changed later in your program.
+
+
+## Declaring Variables
+
+### JavaScript provides three ways to declare variables:
+
+#### 1. var (Old way – avoid using in modern code)
+
+```javascript
+var name = "Alice";
+```
+
+
