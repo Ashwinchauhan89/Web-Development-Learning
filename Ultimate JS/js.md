@@ -290,11 +290,10 @@ let colors = ["red", "green", "blue"];  // Array
 function greet() {
   console.log("Hello!");
 } // Function
-
-<hr>
+```
 
 # JavaScript is Dynamically Typed
 
-let data = 42;        // Number
-data = "Hello";       // Now it's a string
-data = true;          // Now a boolean
+
+
+
