@@ -1,6 +1,6 @@
 **Lesson 1: Typography**
 
-1. Line Height
+### 1. Line Height
 
 What it is: Vertical space between lines of text.
 CSS: line-height
@@ -13,7 +13,7 @@ p {
 ```
 
 
-2. Letter Spacing
+### 2. Letter Spacing
 
 What it is: Space between individual characters.
 CSS: letter-spacing
@@ -26,7 +26,7 @@ h1 {
 ```
 
 
-3. Word Spacing
+### 3. Word Spacing
 
 What it is: Space between words.
 CSS: word-spacing
@@ -46,7 +46,7 @@ p {
 ```
 
 
-4. Word Break
+### 4. Word Break
 
 What it is: Controls how/if words break when reaching the end of a line.
 CSS: word-break
@@ -66,7 +66,7 @@ p {
 
 
 
-5. Line Clamp
+### 5. Line Clamp
 
 What it is: Limits the number of lines in a block of text and hides the rest.
 
@@ -82,7 +82,7 @@ CSS (with webkit):
 ```
 
 
-6. Paragraph Spacing
+### 6. Paragraph Spacing
 
 What it is: Space between paragraphs.
 Usually handled by: margin-bottom on <p> tags.
@@ -95,7 +95,7 @@ p {
 
 ```
 
-7. Font Weight
+### 7. Font Weight
 
 What it is: Thickness of characters.
 CSS: font-weight
@@ -113,7 +113,7 @@ h1 {
 ```
 
 
-8. Font Size
+### 8. Font Size
 
 What it is: Size of the text.
 CSS: font-size
@@ -127,7 +127,7 @@ p {
 ```
 
 
-9. Font Face
+### 9. Font Face
 
 What it is: The specific font file you load on the web.
 Use: @font-face to load a custom font.
@@ -141,7 +141,7 @@ Example:
 ```
 
 
-10. Font Family
+### 10. Font Family
 
 What it is: Defines the font stack.
 CSS: font-family
@@ -153,7 +153,7 @@ body {
 }
 ```
 
-11. Uppercase
+### 11. Uppercase
 
 What it is: Converts all letters to capital letters.
 CSS: text-transform: uppercase;
@@ -166,7 +166,7 @@ h2 {
 
 ```
 
-12. Lowercase
+### 12. Lowercase
 
 What it is: Converts all letters to lowercase.
 CSS:
@@ -177,7 +177,7 @@ CSS:
 
 
 
-13. Capitalize
+### 13. Capitalize
 
 What it is: Makes the first letter of each word uppercase.
 CSS: 
@@ -186,7 +186,7 @@ text-transform: capitalize;
 ```
 
 
-14. Underline
+### 14. Underline
 
 What it is: Adds a line below the text.
 CSS:
@@ -201,7 +201,7 @@ text-decoration: underline;
 
 
 
-15. Overline
+### 15. Overline
 
 What it is: Adds a line above the text.
 CSS: 
@@ -211,7 +211,7 @@ text-decoration: overline;
 ```
 
 
-16. Strikethrough
+### 16. Strikethrough
 
 What it is: Adds a line through the middle of text.
 CSS: 
@@ -223,7 +223,7 @@ text-decoration: line-through;
 
 
 
-17. Bold
+### 17. Bold
 
 What it is: Makes text heavier or thicker.
 CSS: 
@@ -233,7 +233,7 @@ font-weight: bold;
 ```
 
 
-18. Italic
+### 18. Italic
 
 What it is: Slants the text to the right.
 CSS: 
