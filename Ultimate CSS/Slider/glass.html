@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Glass Effect Example</title>
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: url('https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=1950&q=80') 
+        no-repeat center/cover;
+      font-family: "Poppins", sans-serif;
+    }
+
+    .glass-box {
+      width: 320px;
+      padding: 40px;
+      border-radius: 20px;
+      background: rgba(255, 255, 255, 0.1);
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+      color: white;
+      text-align: center;
+    }
+
+    .glass-box h2 {
+      margin: 0;
+      font-size: 1.8em;
+      font-weight: 600;
+    }
+
+    .glass-box p {
+      font-size: 1em;
+      opacity: 0.8;
+    }
+
+    .glass-box button {
+      margin-top: 20px;
+      padding: 10px 25px;
+      border: none;
+      border-radius: 10px;
+      background: rgba(255, 255, 255, 0.377);
+      color: white;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+
+    .glass-box button:hover {
+      background: rgba(255, 255, 255, 0.4);
+    }
+  </style>
+</head>
+<body>
+  <div class="glass-box">
+    <h2>Welcome</h2>
+    <p>Beautiful Glass Effect using CSS</p>
+    <button>Get Started</button>
+  </div>
+</body>
+</html>
