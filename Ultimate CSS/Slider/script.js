@@ -23,9 +23,11 @@ setInterval(() => {
   showSlide(currentIndex + 1);
 }, 5000);
 
+
 // Manual navigation
 nextBtn.addEventListener('click', () => showSlide(currentIndex + 1));
 prevBtn.addEventListener('click', () => showSlide(currentIndex - 1));
+
 
 
 // Mobile menu toggle
