@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <script>
+        function validationForm() {
+            let x = document.forms["myForm"]["myName"].value;
+
+            if (x == "") {
+                alert("Mention your name");
+                return false; // form ko submit hone se roke
+            } else {
+                alert("Details are submitted");
+                return true;
+            }
+        }
+    </script>
+</head>
+
+<body>
+
+<h1>JavaScript Validation</h1>
+
+<form name="myForm" onsubmit="return validationForm()" method="post">
+    Name: <input type="text" name="myName">
+    <input type="submit" value="Register">
+</form>
+
+</body>
+</html>
