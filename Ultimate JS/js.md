@@ -192,10 +192,12 @@ E:\OneDrive\Desktop\Web Development Learning\Ultimate JS\Basic Js>npm --version
 
 # 🔹 What is a Variable in JavaScript?
 
+- A variable is a container used to store data (like numbers, strings, or objects) that can be used and changed later in your program.
+
+<hr>
 <img width="2400" height="1392" alt="image" src="https://github.com/user-attachments/assets/2eeba612-b133-49a4-be99-c293c70da674" />
 
 
-A variable is a container used to store data (like numbers, strings, or objects) that can be used and changed later in your program.
 
 ---
 
@@ -333,11 +335,11 @@ data = true;          // Now a boolean
 ## What is a Block?
 
 - A block is anything inside { } (curly braces):
-
+```javascript
 {
   // This is a block
 }
-
+```
 
 ### Blocks appear in:
 
@@ -354,7 +356,7 @@ data = true;          // Now a boolean
 - and even standalone { }
 
 ## Example of Block Scope
-
+```javascript
 {
   let x = 10;
   const y = 20;
@@ -362,7 +364,7 @@ data = true;          // Now a boolean
 
 console.log(x);  // ❌ Error
 console.log(y);  // ❌ Error
-
+```
 
 ✔ x and y exist ONLY inside the block.
 
@@ -379,14 +381,15 @@ GLOBAL SCOPE
 +-------------------------+
 
 'a' is not available outside the block
-
+```javascript
 ⭐ var is NOT Block Scoped
 {
   var name = "Ashwin";
 }
 
-console.log(name); // ✔ Works
 
+console.log(name); // ✔ Works
+```
 
 💡 var escapes the block → goes to function scope or global scope.
 
