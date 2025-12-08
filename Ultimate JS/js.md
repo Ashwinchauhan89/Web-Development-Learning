@@ -10,6 +10,9 @@ It's one of the **core technologies** of web development, along with:
 - **JavaScript** → for interactivity
 
 ---
+<img alt="17651545112341626756309587967617" src="https://github.com/user-attachments/assets/4f07c992-da99-44ba-8b83-92a2bd0da0f6" />
+
+---
 
 ## ✅ Key Features of JavaScript
 
@@ -189,7 +192,18 @@ E:\OneDrive\Desktop\Web Development Learning\Ultimate JS\Basic Js>npm --version
 
 # 🔹 What is a Variable in JavaScript?
 
-A variable is a container used to store data (like numbers, strings, or objects) that can be used and changed later in your program.
+- A variable is a container used to store data (like numbers, strings, or objects) that can be used and changed later in your program.
+
+<hr>
+<img width="2400" height="1392" alt="image" src="https://github.com/user-attachments/assets/2eeba612-b133-49a4-be99-c293c70da674" />
+
+
+
+---
+
+<img width="720" height="540" alt="image" src="https://github.com/user-attachments/assets/b2cc4277-5c17-463e-be3e-416fc3f6b8ff" />
+
+---
 
 
 ## Declaring Variables
@@ -231,7 +245,16 @@ let userName = "John";
 const $price = 100;
 let _count = 5;
 ```
+---
+| Feature    | var      | let             | const        |
+| ---------- | -------- | --------------- | ------------ |
+| Scope      | Function | Block           | Block        |
+| Re-declare | ✔ Yes    | ❌ No            | ❌ No         |
+| Re-assign  | ✔ Yes    | ✔ Yes           | ❌ No         |
+| Hoisting   | ✔ Yes    | ✔ Yes (but TDZ) | ✔ Yes (TDZ)  |
+| Use        | old JS   | modern JS       | fixed values |
 
+---
 
 
 <hr>
@@ -301,7 +324,107 @@ let data = 42;        // Number
 data = "Hello";       // Now it's a string
 data = true;          // Now a boolean
 ```
+<hr>
 
+# What is Block Scope in JavaScript?
+
+- Block scope means a variable is accessible only inside the block { } in which it is declared.
+
+- In JavaScript, let and const are block-scoped, but var is NOT.
+
+## What is a Block?
+
+- A block is anything inside { } (curly braces):
+```javascript
+{
+  // This is a block
+}
+```
+
+### Blocks appear in:
+
+- if statements
+
+- loops
+
+- functions
+
+- switch
+
+- try/catch
+
+- and even standalone { }
+
+## Example of Block Scope
+```javascript
+{
+  let x = 10;
+  const y = 20;
+}
+
+console.log(x);  // ❌ Error
+console.log(y);  // ❌ Error
+```
+
+✔ x and y exist ONLY inside the block.
+
+## Block Scope Diagram
+
+
+GLOBAL SCOPE
++-------------------------+
+|                         |
+|   {                    <- BLOCK
+|     let a = 10;        |
+|   }                    |
+|                         |
++-------------------------+
+
+'a' is not available outside the block
+```javascript
+⭐ var is NOT Block Scoped
+{
+  var name = "Ashwin";
+}
+
+
+console.log(name); // ✔ Works
+```
+
+💡 var escapes the block → goes to function scope or global scope.
+
+⭐ Block Scope inside if statement
+if (true) {
+  let a = 5;
+  const b = 10;
+}
+
+console.log(a); // ❌ Error
+console.log(b); // ❌ Error
+
+⭐ Block Scope inside loops
+for (let i = 0; i < 3; i++) {
+  console.log(i);
+}
+
+console.log(i); // ❌ Error: i is not defined
+
+
+But with var:
+
+for (var j = 0; j < 3; j++) {
+  console.log(j);
+}
+
+console.log(j); // ✔ Works (0,1,2)
+
+⭐ Why Block Scope is Important?
+
+✔ Avoids variable name conflicts
+✔ Prevents accidental overriding
+✔ Makes code cleaner
+✔ Increases security inside functions
+✔ Better memory management
 
 
 
