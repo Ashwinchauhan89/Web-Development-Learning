@@ -10,7 +10,7 @@ It's one of the **core technologies** of web development, along with:
 - **JavaScript** → for interactivity
 
 ---
-<img width="781" height="438" alt="17651545112341626756309587967617" src="https://github.com/user-attachments/assets/4f07c992-da99-44ba-8b83-92a2bd0da0f6" />
+<img alt="17651545112341626756309587967617" src="https://github.com/user-attachments/assets/4f07c992-da99-44ba-8b83-92a2bd0da0f6" />
 
 ---
 
