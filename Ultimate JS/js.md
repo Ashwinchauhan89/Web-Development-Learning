@@ -194,6 +194,12 @@ E:\OneDrive\Desktop\Web Development Learning\Ultimate JS\Basic Js>npm --version
 
 A variable is a container used to store data (like numbers, strings, or objects) that can be used and changed later in your program.
 
+---
+
+<img width="720" height="540" alt="image" src="https://github.com/user-attachments/assets/b2cc4277-5c17-463e-be3e-416fc3f6b8ff" />
+
+---
+
 
 ## Declaring Variables
 
