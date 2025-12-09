@@ -380,7 +380,7 @@ GLOBAL SCOPE
 |                         |
 +-------------------------+
 
-'a' is not available outside the block
+- 'a' is not available outside the block
 ```javascript
 ⭐ var is NOT Block Scoped
 {
