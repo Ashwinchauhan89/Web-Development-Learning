@@ -59,6 +59,7 @@ Welcome to **The Web Development Learning** repository! This project is a struct
 
 ---
 
+
 ## 🧰 Technologies Covered
 
 | Frontend | Backend | Styling | Deployment | Tools |
