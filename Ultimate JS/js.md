@@ -420,11 +420,11 @@ console.log(j); // ✔ Works (0,1,2)
 
 ⭐ Why Block Scope is Important?
 
-✔ Avoids variable name conflicts
-✔ Prevents accidental overriding
-✔ Makes code cleaner
-✔ Increases security inside functions
-✔ Better memory management
+- ✔ Avoids variable name conflicts
+- ✔ Prevents accidental overriding
+- ✔ Makes code cleaner
+- ✔ Increases security inside functions
+- ✔ Better memory management
 
 
 
