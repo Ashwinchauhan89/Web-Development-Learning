@@ -402,7 +402,7 @@ if (true) {
 console.log(a); // ❌ Error
 console.log(b); // ❌ Error
 
-⭐ Block Scope inside loops
+- ⭐ Block Scope inside loops
 for (let i = 0; i < 3; i++) {
   console.log(i);
 }
