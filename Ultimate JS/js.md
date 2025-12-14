@@ -371,7 +371,7 @@ console.log(y);  // ❌ Error
 ## Block Scope Diagram
 
 
-GLOBAL SCOPE
+- GLOBAL SCOPE
 +-------------------------+
 |                         |
 |   {                    <- BLOCK
