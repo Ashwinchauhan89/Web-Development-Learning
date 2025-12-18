@@ -70,6 +70,7 @@ JavaScript is one of the most important and widely-used programming languages in
 - Runs in any web browser without needing to install anything
 - Tons of learning resources and community support
 
+
 ### 2. 🌐 **Runs in the Browser (Client-Side)**
 - Powers interactive features like:
   - Dropdown menus
