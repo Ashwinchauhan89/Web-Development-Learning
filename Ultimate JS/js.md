@@ -38,6 +38,7 @@ It's one of the **core technologies** of web development, along with:
 
 ---
 
+
 > JavaScript makes websites come alive. Without it, web pages would just be static and boring!
 
 <hr>
