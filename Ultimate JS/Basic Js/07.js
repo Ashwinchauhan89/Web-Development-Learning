@@ -47,6 +47,4 @@ console.log(Math.floor(Math.random()*11)+15);
 
 
 // OTP Generate: 4 digit: 1000-9999
-
-
-// console.log(Math.floor(Math.random()*(9999-1000+1))+1000);
+console.log(Math.floor(Math.random()*(9999-1000+1))+1000); //4 digit OTP
