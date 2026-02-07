@@ -58,3 +58,41 @@ function App(){
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(<App/>);
+
+
+
+
+// Bundler Like
+/// vite
+// webpack
+// parcel
+
+// npm -> node package manager
+//react
+//react-dom
+//babel
+
+
+//npm install react
+// npm install  react-dom
+
+
+
+// Step 1 : npm init
+
+// Create the package.json file
+// it will track all the dependencies of the project
+
+
+//Step 2 : npm install react 
+// node_modules folder 
+
+
+
+// Step 3 : Bundler Vite  // bebal ki jarurat nhi padegi
+
+// npm install -D vite
+
+//  vite => ESbuilder + dev server
+// ESbuilder => convert the jsx code to js code
+
