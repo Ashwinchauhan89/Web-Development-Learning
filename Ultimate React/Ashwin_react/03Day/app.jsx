@@ -96,3 +96,37 @@ root.render(<App/>);
 //  vite => ESbuilder + dev server
 // ESbuilder => convert the jsx code to js code
 
+
+
+
+
+// {
+//   "name": "03day",
+//   "version": "1.0.0",
+//   "description": "My App",
+//   "license": "ISC",
+//   "author": "",
+//   "type": "commonjs",
+//   "main": "app.js",
+//   "scripts": {
+//     "test": "echo \"Error: no test specified\" && exit 1",
+
+
+
+//     "dev": "vite",   //npm run dev => vite
+
+
+//     "build": "vite build"   // npm run build => vite build for production
+
+
+//   },
+//   "dependencies": {
+//     "react": "^19.2.4",
+//     "react-dom": "^19.2.4"
+//   },
+//   "devDependencies": {
+//     "vite": "^7.3.1"
+//   }
+// }
+
+
