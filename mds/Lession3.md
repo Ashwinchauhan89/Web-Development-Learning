@@ -8,6 +8,7 @@ For communication or discussion or sharing media we won't use whatsapp bcz whats
 
 For that we will use Zoho  mail Account N Zoho Chat (Cliq)
 
+
 For work all members will be allotted a Gmail account N Zoho Account
 
 For General Discussion | For Developer Discussion | For Personal Discussion 1v1 we'll use Zoho Cliq, For Office calendar, For client mail sharing N Client media sharing we'll use Zoho mail
