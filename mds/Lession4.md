@@ -4,6 +4,7 @@ Definition: An archive page displays a collection of content organized by a spec
 
 Example: A blog’s “2024 Articles” page listing all posts from that year.
 
+
 Use Case: Helps users and search engines navigate older or categorized content efficiently.
 
 
