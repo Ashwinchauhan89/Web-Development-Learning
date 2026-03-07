@@ -8,6 +8,7 @@ Example: A blog’s “2024 Articles” page listing all posts from that year.
 Use Case: Helps users and search engines navigate older or categorized content efficiently.
 
 
+\
 
 
 

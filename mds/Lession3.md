@@ -4,6 +4,7 @@ Today's discussion will be based on management | what will be the things we are 
 
 1st - Communication Medium
 
+
 For communication or discussion or sharing media we won't use whatsapp bcz whatsapp is for social purpose not ideal for professional work
 
 For that we will use Zoho  mail Account N Zoho Chat (Cliq)
